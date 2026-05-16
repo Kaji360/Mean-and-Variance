@@ -71,7 +71,8 @@ print("Variance =", variance)
 
 
 # Output : 
-<img width="1376" height="234" alt="image" src="https://github.com/user-attachments/assets/737e698c-eed7-41c2-a9b4-6a136b027b68" />
+<img width="261" height="249" alt="image" src="https://github.com/user-attachments/assets/321ed058-4d28-4367-b5eb-ef08a291ecd1" />
+
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
