@@ -76,6 +76,5 @@ print("Variance =", variance)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-# github link
-https://github.com/Kaji360/Mean-and-Variance
+
 
